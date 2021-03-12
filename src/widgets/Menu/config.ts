@@ -99,11 +99,11 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/rockefeller/",
+        href: "https://github.com/rockefellerfinance/",
       },
       {
         label: "Docs",
-        href: "https://rockefeller.gitbook.io/goose-finance/",
+        href: "https://rockefellerfinance.gitbook.io/goose-finance/",
       },
       {
         label: "Blog",
@@ -131,7 +131,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/rockfellerfinance",
+    href: "https://twitter.com/rockefellerfin1",
   },
 ];
 
