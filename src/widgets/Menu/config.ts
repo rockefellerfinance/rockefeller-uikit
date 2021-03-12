@@ -103,7 +103,7 @@ export const links = [
       },
       {
         label: "Docs",
-        href: "https://rockefellerfinance.gitbook.io/goose-finance/",
+        href: "https://rockefellerfinance.gitbook.io/rockefeller-finance/",
       },
       {
         label: "Blog",
